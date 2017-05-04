@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Adapter_1</string>
+
+
+    <string name="prmt">Ülke Seçiniz</string>
+
+    <string-array name="arrCountries">
+
+        <item>Türkiye</item>
+        <item>Almanya</item>
+        <item>KKTC</item>
+
+    </string-array>
+
+</resources>
